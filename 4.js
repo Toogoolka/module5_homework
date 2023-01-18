@@ -1,0 +1,1 @@
+console.log(randInt = Math.floor(Math.random()*100));
